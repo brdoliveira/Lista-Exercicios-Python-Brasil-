@@ -1,0 +1,5 @@
+ACME Inc.               Uso do espaco em disco pelos usuarios
+------------------------------------------------------------------------ 
+Nr.  Usuario        Espaco utilizado     %% do uso
+Espaco total ocupado: 2581.58
+Espaco medio ocupado: 430.26 MB
